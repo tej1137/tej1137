@@ -1,37 +1,52 @@
-Thejas Sunil
-Final-Year BSc Artificial Intelligence | Machine Learning Associate
-Specializing in End-to-End ML Architecture, Generative Models, and Healthcare Data Analytics.
+# 🚀 Thejas Sunil
+**Final-Year BSc Artificial Intelligence | Machine Learning Associate**  
+*Specializing in End-to-End ML Architecture and Healthcare Data Analytics.*
 
-[
-[
-[
+<p align="left">
+<a href="https://www.instagram.com/thejassun1l/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/thejas-sunil-68bba024a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:thjssunil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-💫 About Me
-I am a data-driven AI specialist with a focus on transforming complex clinical and genomic datasets into high-level automated insights. My recent work involves:
+---
 
-End-to-End ML Architecture: Building scalable pipelines from data ingestion to model deployment.
+### 💫 About Me
+I'm currently working on end-to-end ML architecture and Generative Models. I have extensive experience leveraging complex clinical data into high-level insights for automation.
 
-Generative Models: Researching and implementing RAG-driven clinical assistants and LLM integrations.
+- 🛠️ **Interests:** Learning and experimenting with new deployment tools.
+- 🏃 **Hobbies:** Gym enthusiast and dedicated podcast listener.
 
-Clinical Impact: Previously reduced variant scientist workloads by 75% at NeoGenomics through intelligent automation.
+---
 
-Current Focus: Multimodal Contrastive Learning for the early detection of Prostate Cancer.
+### 💻 Tech Stack
 
-💻 Tech Stack
-Category	Tools & Technologies
-Languages	
-AI & Deep Learning	
-Data & BI	
-DevOps & Cloud	
-Web & API	
-📊 Performance & Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tej1137&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej1137&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" /> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" /> </p>
-🧬 Professional Philosophy
-"Leveraging AI not just for the sake of technology, but to bridge the gap between complex clinical data and life-saving human decisions."
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) |
+| **Data & BI** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) |
+| **Cloud / DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) |
 
-🌱 Beyond the Code
-Interests: Rapid prototyping, experimenting with new deployment tools, and cloud architecture.
+---
 
-Lifestyle: Staying disciplined at the gym and gaining insights from tech & philosophy podcasts.
+### 📊 GitHub Stats
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=tej1137&icon=3&color=3" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tej1137&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej1137&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=tej1137&icon=3&color=3" />
+</p>
