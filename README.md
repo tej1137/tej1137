@@ -1,6 +1,6 @@
-# 🚀 Thejas Sunil
+#Thejas Sunil - Tej
 **Final-Year BSc Artificial Intelligence | Machine Learning Associate**  
-*Specializing in End-to-End ML Architecture and Healthcare Data Analytics.*
+*Specializing in End-to-End ML Architecture, Generative Models and Healthcare Data Analytics.*
 
 <p align="left">
 <a href="https://www.instagram.com/thejassun1l/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 
 ---
 
-### 💫 About Me
+### About Me
 I'm currently working on end-to-end ML architecture and Generative Models. I have extensive experience leveraging complex clinical data into high-level insights for automation.
 
 - 🛠️ **Interests:** Learning and experimenting with new deployment tools.
@@ -29,7 +29,14 @@ I'm currently working on end-to-end ML architecture and Generative Models. I hav
 
 ---
 
-### 📊 GitHub Stats
+### Programming Language
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej1137&layout=pie&theme=merko&hide_border=true&include_all_commits=true&count_private=true&hide=html,css" width="60%" />
+</p>
+
+---
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tej1137&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -42,17 +49,5 @@ I'm currently working on end-to-end ML architecture and Generative Models. I hav
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tej1137&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  
-  <!-- Top Languages - Fixed to include private repos and hide common noise -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej1137&theme=merko&layout=compact&hide_border=true&include_all_commits=true&count_private=true&hide=html,css" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" />
+vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" />
 </p>
