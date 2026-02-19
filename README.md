@@ -42,11 +42,17 @@ I'm currently working on end-to-end ML architecture and Generative Models. I hav
 
 ---
 
-### ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
-
----
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tej1137&icon=3&color=3" />
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tej1137&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+  
+  <!-- Top Languages - Fixed to include private repos and hide common noise -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej1137&theme=merko&layout=compact&hide_border=true&include_all_commits=true&count_private=true&hide=html,css" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" />
 </p>
