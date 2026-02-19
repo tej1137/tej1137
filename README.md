@@ -43,9 +43,35 @@ I'm a data-driven AI specialist focused on building **end-to-end ML architecture
 
 ---
 
+
 ### 📊 GitHub Analytics
 
 <p align="center">
   <!-- General Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tej1137&show_icons=true&theme=merko&include_all_commits=true&count_private=
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tej1137&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+  </a>
+  
+  <!-- Language Pie Chart -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej1137&layout=pie&theme=merko&hide_border=true&include_all_commits=true&count_private=true&hide=html,css" width="48%" />
+  </a>
+</p>
+
+---
+
+### ⚡ Activity & Contribution
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=tej1137&icon=3&color=3" />
+</p>
