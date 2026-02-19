@@ -11,18 +11,34 @@
 ---
 
 ### 💫 About Me
-I'm a data-driven AI specialist currently working on **end-to-end ML architecture** and **Generative Models**. I specialize in leveraging complex datasets into high-level insights for automation.
+I'm a data-driven AI specialist focused on building **end-to-end ML architectures** and **Generative Models**. I specialize in leveraging complex datasets into high-level insights for automation.
 
 - 🛠️ Currently focusing on **Multimodal Contrastive Learning** for early disease detection.
-- 🚀 Interested in learning and experimenting with new deployment tools.
-- 🏋️ Hobbies: Gym enthusiast and podcast listener.
+- 🚀 Researching and experimenting with new deployment tools and LLM-RAG systems.
+- 🏋️ Hobbies: Gym enthusiast and tech/philosophy podcast listener.
 
 ---
 
 ### 💻 Tech Stack
 
+#### 🌐 Languages & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,bash,powershell,pytorch,tensorflow,sklearn,opencv,mysql,mongodb,aws,gcp,docker,kubernetes,githubactions,powerbi,linux,git,jira" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,bash,powershell,markdown" />
+</p>
+
+#### 🧠 AI, Machine Learning & Deep Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,keras" />
+</p>
+
+#### 📊 Data Science, BI & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=powerbi,pandas,mysql,mongodb,dynamodb,anaconda" />
+</p>
+
+#### 🚀 Cloud, DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,bitbucket,jira,confluence,vscode" />
 </p>
 
 ---
@@ -32,29 +48,4 @@ I'm a data-driven AI specialist currently working on **end-to-end ML architectur
 <p align="center">
   <!-- General Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tej1137&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  </a>
-  
-  <!-- Language Pie Chart -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej1137&layout=pie&theme=merko&hide_border=true&include_all_commits=true&count_private=true&hide=html,css" width="48%" />
-  </a>
-</p>
-
----
-
-### ⚡ Activity & Contribution
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tej1137&icon=3&color=3" />
-</p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tej1137&show_icons=true&theme=merko&include_all_commits=true&count_private=
