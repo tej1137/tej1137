@@ -56,9 +56,6 @@ I am a data-driven AI specialist currently working on **end-to-end ML architectu
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" alt="Streak Stats" />
 </p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" />
-</p>
 
 <br>
 
