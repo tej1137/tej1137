@@ -1,71 +1,66 @@
-# 👋 Hi, I'm Thejas Sunil
-**Final-Year BSc Artificial Intelligence | Machine Learning Associate**  
-*Building End-to-End ML Architecture and Healthcare Data Analytics.*
+# ## 👋 Hey, I'm Thejas Sunil!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/thejas-sunil-68bba024a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/thejassun1l/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="mailto:thjssunil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href='https://www.linkedin.com/in/thejas-sunil-68bba024a/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='20px'/></a>
+<a href='https://www.instagram.com/thejassun1l/'><img align='left' alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" height='20px'/></a>
+<a href='mailto:thjssunil@gmail.com'><img alt="email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height='20px'/></a>
 </p>
 
----
+I am a data-driven AI specialist currently working on **end-to-end ML architecture** and **Generative Models** 🤖. I have extensive experience leveraging complex datasets into high-level insights for automation 🛠️. I love exploring new tech stacks 💻 and building high-impact healthcare AI systems.
 
-### 💫 About Me
-I'm a data-driven AI specialist focused on building **end-to-end ML architectures** and **Generative Models**. I specialize in leveraging complex datasets into high-level insights for automation.
+<br/>
 
-- 🛠️ Currently focusing on **Multimodal Contrastive Learning** for early disease detection.
-- 🚀 Researching and experimenting with new deployment tools and LLM-RAG systems.
-- 🏋️ Hobbies: Gym enthusiast and tech/philosophy podcast listener.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="340px"/>
 
----
+### 🧐 More About Me:
 
-### 💻 Tech Stack
+- 🔭 &nbsp; I’m currently working on **Multimodal Contrastive Learning** for prostate cancer detection.
+- 🤝 &nbsp; I’m looking to collaborate on Open Source Healthcare AI & ML Ops projects.
+- 🌱 &nbsp; I’m currently deep-diving into **LLM-RAG** optimization and cloud-native deployment.
+- 👨🏻‍💻 &nbsp; Most of my professional work and R&D projects are available on [Github](https://github.com/tej1137?tab=repositories)
+- 💬 &nbsp; Ask me about Machine Learning, Clinical Data, or AI in Healthcare.
+- 🏋️ &nbsp; When I am free, I’m at the gym or listening to tech and philosophy podcasts.
 
-#### 🌐 Languages & Scripting
+<br>
+
+### 🔨 Languages and Tools:
+
+#### 🌐 Programming & Scripting
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cs,bash,powershell,markdown" />
 </p>
 
-#### 🧠 AI, Machine Learning & Deep Learning
+#### 🧠 AI, ML & Deep Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,keras" />
 </p>
 
-#### 📊 Data Science, BI & Databases
+#### 📊 Data, BI & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,pandas,mysql,mongodb,dynamodb,anaconda" />
+  <img src="https://skillicons.dev/icons?i=powerbi,pandas,mysql,mongodb,aws,gcp,anaconda" />
 </p>
 
-#### 🚀 Cloud, DevOps & Tools
+#### 🚀 DevOps & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,bitbucket,jira,confluence,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,bitbucket,jira,confluence,vscode" />
 </p>
 
----
+<br>
 
-
-### 📊 GitHub Analytics
-
+### 📊 Github Analytics
 <p align="center">
-  <!-- General Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tej1137&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  </a>
+  <!-- Left: General Stats Card -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tej1137&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
   
-  <!-- Language Pie Chart -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej1137&layout=pie&theme=merko&hide_border=true&include_all_commits=true&count_private=true&hide=html,css" width="48%" />
-  </a>
+  <!-- Right: Language Pie Chart -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej1137&layout=pie&theme=merko&hide_border=true&include_all_commits=true&count_private=true&hide=html,css" width="48%" />
 </p>
 
----
-
-### ⚡ Activity & Contribution
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" />
 </p>
 
----
+<br>
 
 ### ✍️ Random Dev Quote
 <p align="center">
