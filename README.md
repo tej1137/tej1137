@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on end-to-end ML architecture & Generative Models<br>Experienced in leveraging data into valuable insights<br><br>Interests - Learning & experimenting new tools.<br>Hobbies -  gym & podcasts
+I'm currently working on end-to-end ML architecture & Generative Models<br>Experienced in leveraging data into high level insights for automation<br><br>Interests - Learning & experimenting new tools.<br>Hobbies -  gym & podcasts
 
 
 ## 🌐 Socials:
@@ -20,5 +20,3 @@ I'm currently working on end-to-end ML architecture & Generative Models<br>Exper
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tej1137&icon=3&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
