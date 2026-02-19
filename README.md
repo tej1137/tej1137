@@ -1,4 +1,4 @@
-# ## 👋 Hey, I'm Thejas Sunil!
+# ## 👋 Hey, I'm Tej!
 
 <p align="left">
 <a href='https://www.linkedin.com/in/thejas-sunil-68bba024a/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='20px'/></a>
@@ -18,7 +18,7 @@ I am a data-driven AI specialist currently working on **end-to-end ML architectu
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Healthcare AI & ML Ops projects.
 - 🌱 &nbsp; I’m currently deep-diving into **LLM-RAG** optimization and cloud-native deployment.
 - 👨🏻‍💻 &nbsp; Most of my professional work and R&D projects are available on [Github](https://github.com/tej1137?tab=repositories)
-- 💬 &nbsp; Ask me about Machine Learning, Clinical Data, or AI in Healthcare.
+- 💬 &nbsp; Ask me about cool stuffs like Machine Learning or generative models
 - 🏋️ &nbsp; When I am free, I’m at the gym or listening to tech and philosophy podcasts.
 
 <br>
@@ -47,25 +47,20 @@ I am a data-driven AI specialist currently working on **end-to-end ML architectu
 
 <br>
 
-### 📊 Github Analytics
+###  Github Analytics
 <p align="center">
-  <!-- Left: General Stats Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tej1137&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  
-  <!-- Right: Language Pie Chart -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej1137&layout=pie&theme=merko&hide_border=true&include_all_commits=true&count_private=true&hide=html,css" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tej1137&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" width="48%" alt="General Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tej1137&layout=pie&theme=merko&hide_border=true&include_all_commits=true&count_private=true&hide=html,css" width="48%" alt="Language Pie Chart" />
 </p>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" alt="Streak Stats" />
+</p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tej1137&theme=merko&hide_border=true" width="100%" />
 </p>
 
 <br>
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" />
-</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=tej1137&icon=3&color=3" />
