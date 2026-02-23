@@ -18,7 +18,7 @@ I am a data-driven AI specialist currently working on **end-to-end ML architectu
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Healthcare AI & ML Ops projects.
 - 🌱 &nbsp; I’m currently deep-diving into **LLM-RAG** optimization and cloud-native deployment.
 - 👨🏻‍💻 &nbsp; Most of my professional work and R&D projects are available on [Github](https://github.com/tej1137?tab=repositories)
-- 💬 &nbsp; Ask me about cool stuffs like Machine Learning or generative models
+- 💬 &nbsp; Ask me about cool stuffs like Machine Learning or generative models.
 - 🏋️ &nbsp; When I am free, I’m at the gym or listening to tech and philosophy podcasts.
 
 <br>
